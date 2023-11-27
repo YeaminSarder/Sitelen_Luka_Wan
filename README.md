@@ -8,3 +8,8 @@ the such possible groupings. So, I compiled an exhaustive list of such
 groupings. You are welcome to discuss about which one is the best for what reasons.
 
 The list can be found [here](toki_pona_in_6_char_grps.txt)
+
+- Each line is an array and represents a valid grouping.
+- there are 6 subarrays in the array.
+- if you replace each characters in the subarray with a symbol,
+  it is still possible to identify each words uniquely.
