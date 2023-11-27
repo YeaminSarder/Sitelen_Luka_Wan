@@ -2,9 +2,10 @@
 Write Toki Pona words using only 6 symbols
 
 This is inspired by [Linja pi kute mute](https://www.reddit.com?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2).
-It says you can write the 120 pu words using only 6 characters.
-Now, I wanted to include 17 ku suli words and also be selective of
-the such possible groupings. So, I compiled an exhaustive list of such
+It says you can write the 120 pu words using only 6 characters. It groups some of the characters and uses a single character in place of them.
+
+I wanted to include 17 ku suli words and also be selective of
+such possible groupings of characters. So, I compiled an *exhaustive* list of such
 groupings. You are welcome to discuss about which one is the best for what reasons.
 
 The list can be found [here](toki_pona_in_6_char_grps.txt)
