@@ -7,4 +7,4 @@ Now, I wanted to include 17 ku suli words and also be selective of
 the such possible groupings. So, I compiled an exhaustive list of such
 groupings. You are welcome to discuss about which one is the best for what reasons.
 
-The list can be found [here]
+The list can be found [here](toki_pona_in_6_char_grps.txt)
