@@ -22,7 +22,7 @@
 
 # calculations
 
-- stdanderd deviation of character distribution of TWL:
+- stdanderd deviation of character distribution of TWL: (calculated by Jan Ke Tami)
   - may be useful if you are making a writting system
   - min: 7.503332592921628
     - [['a', 't'], ['e', 'j', 'm'], ['i', 'p'], ['k', 'u', 'w'], ['l', 'o'], ['n', 's']]
@@ -32,7 +32,7 @@
     - [133, 103, 139, 67, 83, 30]
   - mean 92.5
 
-- sd of first character distribution of TWL:
+- sd of first character distribution of TWL: (calculated by me)
   - may be used to categorize words as uniform as possible
     - for example, I'm using this to build my toki pona keyboard layout
   - min: 0.983192080250175
