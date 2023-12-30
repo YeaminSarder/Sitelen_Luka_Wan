@@ -16,5 +16,5 @@ The list can be found [here](toki_pona_in_6_char_grps.txt)
 - if you replace each characters in the subarray with a symbol,
   it is still possible to identify each words uniquely.
 
-I am keeping a track of best groupings best on certain criteria. this can be found in
+I am keeping a track of best groupings besed on certain criteria. this can be found in
 [Benchmarks.md](Benchmarks.md). You are welcome to add calculations that are missing.
